@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 # C++ 那些事
-# 123214213123412312
+
 [English version is here](./README_EN.md)
 
 
